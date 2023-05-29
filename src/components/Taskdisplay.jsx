@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import EditOrDelete from "./EditOrDelete";
 import { ChildBox, ParentBox, SectionBox, TaskCard } from "./styled/divs";
-import { Label, TaskDate, TaskDescription, TaskStatus } from "./styled/typos";
+import { Label, TaskDate, TaskDescription } from "./styled/typos";
 import TaskForm from "./Taskform";
 import { Fade, Modal, Backdrop, Box } from "@mui/material";
 
